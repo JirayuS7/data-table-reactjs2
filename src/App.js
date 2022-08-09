@@ -6,7 +6,7 @@ const columns = [
   {
     name: "id",
     selector: (row) => row.id,
-    width: "100px",
+    width: "110px",
   },
   {
     name: "coverimage",
